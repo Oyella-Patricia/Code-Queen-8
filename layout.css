@@ -1,0 +1,62 @@
+.mother{
+    background-color: aquamarine;
+    height:800px;
+    width: 1000px;
+    margin:auto;
+}
+.sister{
+    background-color: burlywood;
+    height:400px;
+    width:800px;
+    margin:100px;
+    
+}
+.child{
+    background-color: cornflowerblue;
+    height: 400px;
+    width: 400px;
+
+}
+.first{
+    float: left;
+    background-color: white;
+    margin: 5px;
+
+}
+.second{
+    float:right;
+    background-color: cornflowerblue;
+}
+/*Twitter logo*/
+.logo{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-right: 200px;
+    
+}
+.puppy{
+    height: 300px;
+    width: 300px;
+    padding-left: 50px;
+}
+.read{
+    border: 0px;
+    box-shadow: 1px 2px 1px grey;
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 5px;
+    color: rgb(245, 241, 241);
+}
+.forgot{
+    margin-left: 5px;
+    padding-top: 10px;
+
+}
+.button{
+    border: 0px;
+    background-color: rgb(147, 179, 238);
+    margin-left: 100px;
+    width: 200px;
+    padding: 15px;
+}
